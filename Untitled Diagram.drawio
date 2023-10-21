@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T19:31:50.092Z" agent="Mozilla/5.0 (Windows NT 11.0; Win64; x64; rv:114.0) Gecko/20000101 Firefox/114.0/KB8zJ2uk7Dt4-82" etag="nWglYqJfVggBvldJjbWe" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-21T02:15:49.986Z" agent="Mozilla/5.0 (Windows NT 11.0; Win64; x64; rv:114.0) Gecko/20000101 Firefox/114.0/KB8zJ2uk7Dt4-82" etag="1rr1xZZrUMKS5t5eCFrp" version="22.0.6" type="github">
   <diagram name="Page-1" id="ONU9c8nHbTdjxPXM_6Pj">
-    <mxGraphModel dx="1444" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F0_R7XAXKocYfnr8vVTp-16" value="SubjectName" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="F0_R7XAXKocYfnr8vVTp-16" value="Hotel Management System" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="240" y="130" width="390" height="660" as="geometry" />
         </mxCell>
         <mxCell id="F0_R7XAXKocYfnr8vVTp-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
